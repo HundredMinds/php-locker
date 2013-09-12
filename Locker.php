@@ -2,8 +2,8 @@
 
 namespace Locker;
 
-require_once('./Lock.php');
-require_once('./Exceptions.php');
+require_once('Lock.php');
+require_once('Exceptions.php');
 
 
 /**
