@@ -1,4 +1,5 @@
 <?php
+namespace Locker;
 
 class LockerException extends \RuntimeException {}
 
